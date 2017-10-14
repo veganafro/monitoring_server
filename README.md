@@ -5,4 +5,5 @@ also logged.
 
 # Usage
 Run the program from the command line in the following way:
+
 `go run $GOPATH/src/monitoring_server/monitoring_server.go <ENDPOINT_URL> <PATH_TO_LOG_FILE>`
