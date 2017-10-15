@@ -5,6 +5,6 @@ also logged. As of now, only http (not https) endpoints can be monitored. Redire
 is used.
 
 # Usage
-Run the program from the command line in the following way:
+Run the program from the command line with the following:
 
 `go run $GOPATH/src/monitoring_server/monitoring_server.go <ENDPOINT_URL> <PATH_TO_LOG_FILE>`
